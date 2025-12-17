@@ -13,11 +13,11 @@ root.render(
       </a>
       <div className="links-1">
         <a href="mailto:jayanthi.chesetti@gmail.com">
-          <img src="src/assets/email.png" />
+          <img src="/src/assets/email.png" />
           Email
         </a>
         <a href="https://www.linkedin.com/in/jayanthi-chesetti-657805272/">
-          <img src="src/assets/linkedin.png" />
+          <img src="/src/assets/linkedin.png" />
           LinkedIn
         </a>
       </div>
@@ -37,13 +37,13 @@ root.render(
     </main>
     <footer className="links-2">
       <a href="https://github.com/jrc17">
-        <img src="src/assets/github.png" />
+        <img src="/src/assets/github.png" />
       </a>
       <a href="https://www.frontendmentor.io/profile/jrc17">
-        <img src="src/assets/frontendmentor.png" />
+        <img src="/src/assets/frontendmentor.png" />
       </a>
       <a href="https://www.instagram.com/jayanthi_rc/">
-        <img src="src/assets/instagram.png" />
+        <img src="/src/assets/instagram.png" />
       </a>
     </footer>
   </>
