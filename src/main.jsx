@@ -4,7 +4,7 @@ const root = createRoot(document.getElementById("root"));
 
 root.render(
   <>
-    <img src="/src/assets/jayanthi.jpg" className="potrait" />
+    <img src="/assets/jayanthi.jpg" className="potrait" />
     <header>
       <h1>Jayanthi Chesetti</h1>
       <p className="role">Frontend Developer</p>
@@ -13,7 +13,7 @@ root.render(
       </a>
       <div className="links-1">
         <a href="mailto:jayanthi.chesetti@gmail.com">
-          <img src="/email.png" />
+          <img src="assest/email.png" />
           Email
         </a>
         <a href="https://www.linkedin.com/in/jayanthi-chesetti-657805272/">
