@@ -13,7 +13,7 @@ root.render(
       </a>
       <div className="links-1">
         <a href="mailto:jayanthi.chesetti@gmail.com">
-          <img src="assest/email.png" />
+          <img src="assets/email.png" />
           Email
         </a>
         <a href="https://www.linkedin.com/in/jayanthi-chesetti-657805272/">
